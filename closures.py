@@ -15,8 +15,7 @@ huddy = outer_function("huddy", 5)
 huddy()
 huddy()
 
-#Exercise 2
-
+#Exercise
 def all_numbers():
     sqr=[]
     def square_numbers():
